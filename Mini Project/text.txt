@@ -1,0 +1,26 @@
+### Rock, Paper, Scissors Game Summary
+
+**Game Overview**:
+"Rock, Paper, Scissors" is a simple hand game usually played between two people. It serves as a decision-making tool and is based on three possible hand shapes that determine the winner.
+
+**How to Play**:
+1. **Players**: Two players.
+2. **Hand Shapes**:
+   - **Rock**: a fist.
+   - **Paper**: an open hand.
+   - **Scissors**: a fist with the index and middle fingers extended.
+
+**Rules**:
+- **Rock** crushes **Scissors**.
+- **Scissors** cuts **Paper**.
+- **Paper** covers **Rock**.
+- If both players choose the same shape, it results in a tie.
+
+**Steps to Play**:
+1. Players count to three together and then show their chosen shape.
+2. The winner is determined based on the rules above.
+
+**Example Game**:
+- Player 1 chooses Rock.
+- Player 2 chooses Scissors.
+- Result: Player 1 wins because Rock crushes Scissors.
