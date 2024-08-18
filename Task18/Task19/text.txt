@@ -1,1 +1,0 @@
-Tensor operation and intro to neural network
